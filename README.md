@@ -10,4 +10,4 @@ This project --> explain the project
 |     |
  -----
 
-![dddd](src/main/ressources/ClassDiagram.jpg)
+[ClassDiagram.jpg](src/main/resources/ClassDiagram.jpg)
