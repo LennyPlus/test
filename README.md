@@ -6,6 +6,6 @@ This is the final project for the course Introduction to programming at Vanier c
 
 This project --> explain the project
  -----
-|     |
+|     |rrrr
 |     |
  -----
